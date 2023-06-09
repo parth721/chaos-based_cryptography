@@ -16,9 +16,12 @@ move to the third-step which is diffusion. For diffusion do XOR operation with k
 <br><br>
 for decryption again do XOR with the encrypted image and then convert to 1D-array & sort the indices. covert 1D-array to 3D-matrix.
 <br>
-Research paper :
-[chaos_based_encryption.pdf](https://github.com/parth721/visual_cryptography/files/11708192/chaos_based_encryption.pdf)
 <br>
+
+
+# [papers 📚](https://github.com/parth721/visual_cryptography/files/11708192/chaos_based_encryption.pdf)
 <br>
+
+
 https://github.com/parth721/visual_cryptography/assets/112557191/d019b4ea-033a-47cf-b98d-c27d395a1b2e
 
