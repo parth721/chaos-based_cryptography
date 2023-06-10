@@ -1,6 +1,6 @@
 # chaos_based_cryptography
 <br>
-It's an cryptographic technique for surely transfering images over internet or storing images on clouds etc.
+It's an cryptographic technique for securely transfering images over internet or storing images on clouds etc.
 <br>
 <br>
 Its an 3-steps procedure to encrypt your image :<br>
